@@ -1,0 +1,37 @@
+[
+    {
+        "Fname": "Aidan",
+        "Lname": "Noseworthy",
+        "birthdate": "07/06/2000",
+        "dateOfEmployment": "06/21/2021",
+        "eyes": "Brown"
+    },
+    {
+        "Fname": "Jeffrey",
+        "Lname": "Barker",
+        "birthdate": "01/14/1984",
+        "dateOfEmployment": "05/20/2020",
+        "eyes": "Brown"
+    },
+    {
+        "Fname": "Kyle",
+        "Lname": "Warren",
+        "birthdate": "07/23/1999",
+        "dateOfEmployment": "05/30/2022",
+        "eyes": "Blue"
+    },
+    {
+        "Fname": "Anron",
+        "Lname": "Caldeth",
+        "birthdate": "12/18/2001",
+        "dateOfEmployment": "11/23/2017",
+        "eyes": "Green"
+    },
+    {
+        "Fname": "Tyler",
+        "Lname": "Jones",
+        "birthdate": "09/16/1997",
+        "dateOfEmployment": "04/21/2019",
+        "eyes": "Hazel"
+    }
+]
